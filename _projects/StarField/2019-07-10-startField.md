@@ -4,4 +4,4 @@ layout: post
 date: 2019-07-10
 ---
 
-Here is my page about Star Fiels
+Here is my page about Star Field
